@@ -12,8 +12,10 @@
   "dependencies": {
     "dotenv": "^16.5.0",
     "firebase": "^11.7.1",
+    "lucide-react": "^0.510.0",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
+    "react-error-boundary": "^6.0.0",
     "react-toastify": "^11.0.5"
   },
   "devDependencies": {
