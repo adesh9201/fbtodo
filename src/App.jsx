@@ -1,10 +1,10 @@
-// src/App.jsx
 import React from 'react';
 import Home from './pages/Home';
 
+
 function App() {
   return (
-    <div className="bg-gray-100 min-h-screen">
+    <div className="min-h-screen bg-gradient-to-br from-purple-400 via-blue-500 to-indigo-600 animate-gradient-x">
       <Home />
     </div>
   );
